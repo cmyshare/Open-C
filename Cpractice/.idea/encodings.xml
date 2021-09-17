@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Unit1/test1-1.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit1/test1-2.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit1/test1-3.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit10/test10-1.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit10/test10-2.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit10/test10-6.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit2/test2-18.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit2/test2-19.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit3/test3-1.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit3/test3-10.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit3/test3-2.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit3/test3-3.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit3/test3-4.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit3/test3-5.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit3/test3-6.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit3/test3-8.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit3/test3-9.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit4/test4-1.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit4/test4-2.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit4/test4-3.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit4/test4-4.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit4/test4-5.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit4/test4-6.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit4/test4-7.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit4/test4-8.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-1.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-10.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-11.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-2.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-3.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-4.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-5.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-6.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-7.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-8.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit5/test5-9.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit6/test6-2.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit6/test6-3.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit6/test6-4.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit6/test6-5.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit6/test6-6.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit6/test6-7.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit6/test6-8.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit6/test6-9.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit7/test7-1.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Unit9/test9-7.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sort/3insertSort.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sort/4shellSort.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "F:/CLion/CLionbook/Cpractice/Unit7/test7-20-1.c" "F:/CLion/CLionbook/Cpractice/cmake-build-debug/CMakeFiles/main7201.dir/Unit7/test7-20-1.c.obj"
+  "F:/CLion/CLionbook/Cpractice/Unit7/test7-20-2.c" "F:/CLion/CLionbook/Cpractice/cmake-build-debug/CMakeFiles/main7201.dir/Unit7/test7-20-2.c.obj"
+  "F:/CLion/CLionbook/Cpractice/Unit7/test7-20-3.c" "F:/CLion/CLionbook/Cpractice/cmake-build-debug/CMakeFiles/main7201.dir/Unit7/test7-20-3.c.obj"
+  "F:/CLion/CLionbook/Cpractice/Unit7/test7-20-4.c" "F:/CLion/CLionbook/Cpractice/cmake-build-debug/CMakeFiles/main7201.dir/Unit7/test7-20-4.c.obj"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

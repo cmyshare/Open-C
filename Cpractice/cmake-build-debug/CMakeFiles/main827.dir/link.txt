@@ -1,0 +1,3 @@
+"F:\CLion\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\main827.dir/objects.a
+F:\CLion\MinGW\mingw64\bin\ar.exe cr CMakeFiles\main827.dir/objects.a @CMakeFiles\main827.dir\objects1.rsp
+F:\CLion\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\main827.dir/objects.a -Wl,--no-whole-archive -o main827.exe -Wl,--out-implib,libmain827.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\main827.dir\linklibs.rsp

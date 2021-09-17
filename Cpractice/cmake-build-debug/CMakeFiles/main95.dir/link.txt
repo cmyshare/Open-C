@@ -1,0 +1,3 @@
+"F:\CLion\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\main95.dir/objects.a
+F:\CLion\MinGW\mingw64\bin\ar.exe cr CMakeFiles\main95.dir/objects.a @CMakeFiles\main95.dir\objects1.rsp
+F:\CLion\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\main95.dir/objects.a -Wl,--no-whole-archive -o main95.exe -Wl,--out-implib,libmain95.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\main95.dir\linklibs.rsp
